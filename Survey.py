@@ -1,5 +1,8 @@
 Passcode='Kiwi6541'
 print('Hi, what is your name?')
+print('Who planted zat stupid tree on siz sharp turn?')
+print('It is much too dangerous')
+print('I have a chainsaw')
 name=input('My name is ')
 Text=f'Hi {name}.'
 print(Text)
